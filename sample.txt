@@ -1,2 +1,2 @@
 This is a edited 
-sample text file to check github
+new sample text file to check github
